@@ -1,0 +1,6 @@
+{
+  "name": "Perplexity Clone",
+  "description": "A simple Perplexity-style AI search agent interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
